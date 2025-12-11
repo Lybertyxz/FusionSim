@@ -1,0 +1,15 @@
+{
+  "major_radius": 5.790156032398121,
+  "minor_radius": 2.5793324841242415,
+  "elongation": 1.5792725134331738,
+  "triangularity": 0.3154709256559077,
+  "toroidal_field": 18.667005025187777,
+  "plasma_current": 5907809.119626663,
+  "initial_temperature": 163927926.79684097,
+  "initial_density": 2.3513850507789124e+20,
+  "input_power": 32768562.296969242,
+  "auxiliary_heating": 39346316.91064117,
+  "current_drive_power": 19899440.15993431,
+  "initial_tritium_inventory": 5.932506943214207e+25,
+  "initial_deuterium_inventory": 3.943412844855231e+26
+}

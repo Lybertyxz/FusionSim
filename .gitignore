@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Output files
+plots/*.png
+!plots/.gitkeep
+
+# Configuration files (optional - uncomment if you don't want to track)
+# *.json
+
+# OS
+.DS_Store
+Thumbs.db
